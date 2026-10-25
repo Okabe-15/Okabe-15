@@ -4,7 +4,7 @@
 
 I build practical web applications with a focus on clean user experiences, reliable APIs, relational databases, and useful AI features.
 
-I'm a final-year Informatics Engineering student and a Full-Stack Web Development graduate who enjoys turning product ideas into functional, user-focused applications.
+I'm an Informatics graduate and a Full-Stack Web Development graduate who enjoys turning product ideas into functional, user-focused applications.
 
 ## What I work with
 
@@ -42,7 +42,7 @@ An AI-powered auction platform with real-time bidding, auction countdowns, AI pr
 
 ## Education
 
-- **Universitas Mercu Buana** - Informatics Engineering, 2022-2026
+- **Universitas Mercu Buana** - Informatics Engineering graduate, 2022-2026
 - **Hacktiv8** - Full-Stack Web Development Bootcamp, 2026
 
 ## Connect
